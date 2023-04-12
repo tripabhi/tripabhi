@@ -1,6 +1,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80" ></img>
 I'm Abhijit.
-***
+
+
 - 💻 I'm a Software Engineer with experience in frontend as well as backend development.
 - 🔭 I’m currently working on developing scalable solutions for Serverless functions to better serve Inference workloads.
 - 🛠️ Aside from my professional work, I've also undertaken various projects, including a custom job scheduler for Apache OpenWhisk, a work-stealing threadpool library in Java, and a distributed gradient-averaging ML prototype for training Resnet50 on the ImageNet database using parallel Serverless worker functions on AWS Lambda.
