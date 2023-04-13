@@ -1,5 +1,5 @@
-### Hi there! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80" ></img>
-I'm Abhijit.
+### Hi there, I'm Abhijit! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80" ></img>
+
 
 
 - 💻 I'm a Software Engineer with experience in developing scalable backend and frontend systems.
