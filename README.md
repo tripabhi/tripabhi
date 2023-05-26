@@ -4,7 +4,6 @@
 
 - 💻 I'm a Software Engineer with experience in developing scalable backend and frontend systems.
 - 🔭 I’m currently working on developing scalable solutions for Serverless functions to better serve Inference workloads.
-- 🌱 I’m currently learning how to build, train, and deploy LLMs and other Generative AI models.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tripabhi/), [Twitter](https://twitter.com/AbhijitTripath1)
 
 
