@@ -3,7 +3,7 @@
 
 
 - 💻 I'm a Software Engineer with experience in developing scalable backend and frontend systems.
-- 🔭 I’m currently working on developing scalable solutions for Serverless functions to better serve Inference workloads.
+- 🔭 I’m developing scalable solutions for Serverless functions to optimize ML Inference workloads.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tripabhi/), [Twitter](https://twitter.com/AbhijitTripath1)
 
 
